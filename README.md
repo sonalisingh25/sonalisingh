@@ -68,7 +68,7 @@ Stay tuned as I continue to grow and build my portfolio 🚀
 
 ## 🧑‍💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisingh25&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisingh25&layout=compact&theme=tokyonight)
 
 
 
