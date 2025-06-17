@@ -62,11 +62,15 @@ Stay tuned as I continue to grow and build my portfolio 🚀
 
 ![Sonali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalisingh25&show_icons=true&theme=tokyonight)
 
+## 📫 Connect with Me
+
+- 💼 [GitHub Profile](https://github.com/sonalisingh25)
+
 ## 🧑‍💻 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisingh25&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisingh25&layout=compact&theme=tokyonight)
+
 
 ---
 
