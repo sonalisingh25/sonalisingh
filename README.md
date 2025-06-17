@@ -57,7 +57,6 @@ Stay tuned as I continue to grow and build my portfolio 🚀
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
