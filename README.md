@@ -5,8 +5,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/sonalisingh25?label=Follow&style=social)](https://github.com/sonalisingh25)
 [![Profile views](https://komarev.com/ghpvc/?username=sonalisingh25&color=blueviolet&style=flat)](https://github.com/sonalisingh25)
-![Repo Size](https://img.shields.io/github/repo-size/sonalisingh25/sonalisingh25)
-![Last Commit](https://img.shields.io/github/last-commit/sonalisingh25/sonalisingh25)
+![Repo Size](https://img.shields.io/github/repo-size/sonalisingh25/sonalisingh)
+![Last Commit](https://img.shields.io/github/last-commit/sonalisingh25/sonalisingh)
+
 
 ---
 
@@ -58,7 +59,12 @@ Stay tuned as I continue to grow and build my portfolio 🚀
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![Sonali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalisingh25&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisingh25&layout=compact&theme=tokyonight)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisingh25&layout=compact&theme=tokyonight)
 
